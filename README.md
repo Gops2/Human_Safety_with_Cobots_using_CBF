@@ -73,3 +73,5 @@ repository. For background, see this [Github discussion](https://github.com/ros-
 [![Format](https://github.com/ros-planning/moveit_calibration/actions/workflows/format.yaml/badge.svg?branch=master)](https://github.com/ros-planning/moveit_calibration/actions/workflows/format.yaml?branch=master)
 [![BuildAndTest](https://github.com/ros-planning/moveit_calibration/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/ros-planning/moveit_calibration/actions/workflows/ci.yaml?branch=master)
 [![codecov](https://codecov.io/gh/ros-planning/moveit_calibration/branch/master/graph/badge.svg?token=W7uHKcY0ly)](https://codecov.io/gh/ros-planning/moveit_calibration)
+
+ [Watch Demo on LinkedIn](https://www.linkedin.com/posts/shaman-mananbhai-panchal-2b609b141_robotics-research-humanrobotinteraction-activity-7196714201761869825-RxRx)
