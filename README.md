@@ -19,7 +19,6 @@ gesture_follow_turner/
 ├── robot_turn_node.py
 ├── package.xml
 ├── setup.py
-├── README.md
 └── Makefile
 
 
